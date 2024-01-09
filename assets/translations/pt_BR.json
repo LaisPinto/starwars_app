@@ -1,0 +1,16 @@
+{
+  "Screen": {
+    "detail": {
+      "title": "Character",
+      "loading": "Carregando...",
+      "name": "Nome: ",
+      "gender" : "Genero: ",
+      "birthYear" : "Ano de aniversario: ",
+      "eyeColor" : "Cor dos olhos: ",
+      "hairColor" : "Cor do cabelo: ",
+      "height" : "Altura: ",
+      "mass" : "Massa: ",
+      "skinColor" : "Cor da pele: "
+    }
+  }
+}
